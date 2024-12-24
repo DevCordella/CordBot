@@ -1,5 +1,9 @@
+  "scripts": {
+  "start": "node cordbot.js"
+}
+
 {
-  "name": "bonfire",
+  "name": "cordbot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
